@@ -17,6 +17,6 @@ def calculate(number_1: int, number_2: int, command: str) -> float:
             return 0.0
 
 number_1: int = int(input("What is the first number for the calculation?"))
-number_2: int = int(input(What is the second number for the calculation?"))
+number_2: int = int(input("What is the second number for the calculation?"))
 command: str = input("What calculation do you want to perform?")
 calculate(number_1, number_2, command)
